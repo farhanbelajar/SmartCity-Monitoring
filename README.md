@@ -6,3 +6,11 @@ Aplikasi ini dirancang untuk memantau kondisi lalu lintas dan pencahayaan kota s
 Berikut merupakan tampilan umum alat sistem Smart City Monitoring:
 
 ![Gambaran Umum Alat](https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/asset/Sensor%20Ultrasonic%20(2).png)
+
+## Tampilan Aplikasi (UI)
+
+Berikut adalah tampilan antarmuka aplikasi mobile yang menampilkan data sensor, video kamera, dan kontrol sistem:
+
+<p align="center">
+  <img src="https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/asset/UI_APK.png" width="420" alt="Tampilan UI Aplikasi"/>
+</p>
