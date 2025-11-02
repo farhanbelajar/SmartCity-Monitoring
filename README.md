@@ -9,7 +9,7 @@ Aplikasi ini dirancang untuk memantau kondisi lalu lintas dan pencahayaan kota s
 Berikut merupakan tampilan umum alat sistem Smart City Monitoring yang digunakan untuk pengumpulan data dari sensor cahaya dan kamera:
 
 <p align="center">
-  <img src="https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/asset/Sensor%20Ultrasonic%20(2).png" width="600" alt="Gambaran Umum Alat"/>
+  <img src="https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/asset/Gambaran_Umum.png" width="600" alt="Gambaran Umum Alat"/>
 </p>
 
 ---
