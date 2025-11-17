@@ -1,16 +1,30 @@
-# apk_tes
 
-A new Flutter project.
+# SmartCity Monitoring – Flutter App
 
-## Getting Started
+Aplikasi SmartCity Monitoring adalah proyek Flutter yang dirancang untuk menampilkan data lingkungan & kota cerdas secara real-time. Proyek ini dapat dikembangkan untuk berbagai kebutuhan seperti monitoring lalu lintas, sensor IoT, energi, keamanan, dan sistem smart city lainnya.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* Tampilan antarmuka Flutter yang ringan & responsif
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Struktur project yang mudah dikembangkan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Integrasi dengan backend atau layanan IoT (dapat disesuaikan)
+
+* Siap dikembangkan menjadi aplikasi Smart City lengkap
+
+### 🖥️ UI Aplikasi
+
+<p align="center">
+  <img src="https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/image/UI_APK.png" width="600" alt="Tampilan Aplikasi"/>
+</p>
+
+---
+
+### ⚙️ Gambaran Umum Sistem
+
+<p align="center">
+  <img src="https://github.com/farhanbelajar/SmartCity-Monitoring/blob/main/image/Gambaran_Umum.png" width="600" alt="Gambaran Umum Alat"/>
+</p>
+
+
