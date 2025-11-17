@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "887087858534",
+    "firebase_url": "https://smart-city-aa45d-default-rtdb.firebaseio.com",
+    "project_id": "smart-city-aa45d",
+    "storage_bucket": "smart-city-aa45d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887087858534:android:26f3b60ac9b064188abea7",
+        "android_client_info": {
+          "package_name": "com.example.apk_tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWpIUSXbU6MVsPS00wUKhHKJ6VtmNDDKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887087858534:android:d5e7367c524d628e8abea7",
+        "android_client_info": {
+          "package_name": "com.example.lamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWpIUSXbU6MVsPS00wUKhHKJ6VtmNDDKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
