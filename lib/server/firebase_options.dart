@@ -41,11 +41,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA2Kp3kFw7qdo9xBWPmeialOLvsoM6BRXY',
-    appId: '1:887087858534:web:a9b10148c6d303e48abea7',
-    messagingSenderId: '887087858534',
-    projectId: 'smart-city-aa45d',
-    authDomain: 'smart-city-aa45d.firebaseapp.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: 's',
+    authDomain: '',
     databaseURL: 'https://smart-city-aa45d-default-rtdb.firebaseio.com',
     storageBucket: 'smart-city-aa45d.appspot.com',
   );
@@ -60,32 +60,32 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA64pmNi-iAqKtOjt8wzGdFUTANYHN8h5c',
+    apiKey: '',
     appId: '1:887087858534:ios:f5c557b2e6bb878a8abea7',
     messagingSenderId: '887087858534',
     projectId: 'smart-city-aa45d',
-    databaseURL: 'https://smart-city-aa45d-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'smart-city-aa45d.appspot.com',
     iosBundleId: 'com.example.apkTes',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA64pmNi-iAqKtOjt8wzGdFUTANYHN8h5c',
+    apiKey: '',
     appId: '1:887087858534:ios:f5c557b2e6bb878a8abea7',
     messagingSenderId: '887087858534',
     projectId: 'smart-city-aa45d',
-    databaseURL: 'https://smart-city-aa45d-default-rtdb.firebaseio.com',
+    databaseURL: '',
     storageBucket: 'smart-city-aa45d.appspot.com',
     iosBundleId: 'com.example.apkTes',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyA2Kp3kFw7qdo9xBWPmeialOLvsoM6BRXY',
-    appId: '1:887087858534:web:54d84e1def457f0f8abea7',
+    appId: '1:',
     messagingSenderId: '887087858534',
     projectId: 'smart-city-aa45d',
-    authDomain: 'smart-city-aa45d.firebaseapp.com',
-    databaseURL: 'https://smart-city-aa45d-default-rtdb.firebaseio.com',
+    authDomain: '',
+    databaseURL: 'https:m',
     storageBucket: 'smart-city-aa45d.appspot.com',
   );
 }
